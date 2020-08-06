@@ -1,0 +1,14 @@
+    <resources>
+    <string name="app_name">brm</string>
+
+        <style name="gray_text_14sp_style">
+            <item name="android:textSize">14sp</item>
+            <item name="android:textColor">#999999</item>
+        </style>
+
+        <style name="black_text_14sp_style">
+            <item name="android:textSize">14sp</item>
+            <item name="android:textColor">#333333</item>
+        </style>
+
+    </resources>
